@@ -8,6 +8,5 @@ setup(
     author_email='amir.ali201920@gmail.com',
     packages=['math_quiz'],
     install_requires=[
-        'unittest',
     ],
 )
